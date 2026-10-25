@@ -4,7 +4,7 @@
 ---
 
 #### 🔭 Sobre mí
-Profesional sénior con más de 25 años de trayectoria en sistemas de información, gestión de proyectos tecnológicos y atracción de talento especializado, respaldada por una Maestría en Tecnologías de Información (ITESM) y un Doctorado en Educación. Recientemente especializada en **Data Science y Analítica de Datos**, domino herramientas clave para transformar conjuntos de datos complejos en modelos predictivos, dashboards interactivos y decisiones estratégicas.
+Profesional con más de 25 años de trayectoria en sistemas de información, gestión de proyectos tecnológicos y atracción de talento especializado, respaldada por una Maestría en Tecnologías de Información (ITESM) y un Doctorado en Educación. Recientemente especializada en **Data Science y Analítica de Datos**, domino herramientas clave para transformar conjuntos de datos complejos en modelos predictivos, dashboards interactivos y decisiones estratégicas.
 
 #### 🛠️ Tech Stack & Herramientas
 * **Lenguajes y Consultas:** Python, SQL, PostgreSQL
